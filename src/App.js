@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { NhostReactProvider, useAuth } from '@nhost/react';
 import { ApolloProvider } from '@apollo/client';
 import { nhost } from './nhost';
-import { client } from './apollo';
+import { client } from './src';
 import { Login, Signup, Logout } from './Auth';
 import ChatList from './ChatList';
 import ChatView from './ChatView';
