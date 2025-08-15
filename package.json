@@ -4,5 +4,11 @@
     "@nhost/nhost-js": "^3.3.0",
     "@nhost/react": "^3.11.1",
     "graphql": "^16.11.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   }
 }
