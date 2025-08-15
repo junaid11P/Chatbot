@@ -70,20 +70,7 @@
 2. Create a new chat
 3. Send messages and receive real-time bot replies
 
-## Submission
-
-```
-Name: [Your Name]
-Contact: [Your Contact]
-Deployed: [Your Netlify Link]
-```
-
----
-
 **Demo:**  
-Deployed: [your-netlify-link]
+Deployed: [https://jndchatbot.netlify.app/]
 
----
-
-## License
 
