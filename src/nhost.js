@@ -1,6 +1,8 @@
 import { NhostClient } from '@nhost/nhost-js';
 
-export const nhost = new NhostClient({
+const nhost = new NhostClient({
   subdomain: '<cafykseyggvarwpdydnb>',
-  region: '<ap-south-1>',
+  region: '<ap-south-1>',   // <-- Replace with your actual region
 });
+
+export { nhost };
